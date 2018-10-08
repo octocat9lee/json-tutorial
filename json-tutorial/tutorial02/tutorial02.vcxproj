@@ -27,9 +27,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{e959f002-7592-4857-8246-a10451190106}</ProjectGuid>
+    <ProjectGuid>{1b55701f-2c01-4213-ae81-30278ef34aed}</ProjectGuid>
     <Keyword>Linux</Keyword>
-    <RootNamespace>tutorial01</RootNamespace>
+    <RootNamespace>tutorial02</RootNamespace>
     <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <ApplicationType>Linux</ApplicationType>
     <ApplicationTypeRevision>1.0</ApplicationTypeRevision>
@@ -61,17 +61,17 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
-    <Text Include="..\..\tutorial01\CMakeLists.txt" />
+    <Text Include="..\..\tutorial02\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\tutorial01\leptjson.c" />
-    <ClCompile Include="..\..\tutorial01\test.c" />
+    <ClCompile Include="..\..\tutorial02\leptjson.c" />
+    <ClCompile Include="..\..\tutorial02\test.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\tutorial01\leptjson.h" />
+    <ClInclude Include="..\..\tutorial02\leptjson.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\tutorial01\tutorial01.md" />
+    <None Include="..\..\tutorial02\tutorial02.md" />
   </ItemGroup>
   <ItemDefinitionGroup />
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

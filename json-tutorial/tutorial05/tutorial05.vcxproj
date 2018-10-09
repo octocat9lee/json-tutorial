@@ -61,6 +61,17 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
+    <Text Include="..\..\tutorial05\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\tutorial05\leptjson.c" />
+    <ClCompile Include="..\..\tutorial05\test.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\tutorial05\leptjson.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\tutorial05\tutorial05.md" />
   </ItemGroup>
   <ItemDefinitionGroup />
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

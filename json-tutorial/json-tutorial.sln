@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial01", "tutorial01\tu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial02", "tutorial02\tutorial02.vcxproj", "{1B55701F-2C01-4213-AE81-30278EF34AED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial03", "tutorial03\tutorial03.vcxproj", "{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -41,6 +43,18 @@ Global
 		{1B55701F-2C01-4213-AE81-30278EF34AED}.Release|x64.Build.0 = Release|x64
 		{1B55701F-2C01-4213-AE81-30278EF34AED}.Release|x86.ActiveCfg = Release|x86
 		{1B55701F-2C01-4213-AE81-30278EF34AED}.Release|x86.Build.0 = Release|x86
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Debug|ARM.Build.0 = Debug|ARM
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Debug|x64.ActiveCfg = Debug|x64
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Debug|x64.Build.0 = Debug|x64
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Debug|x86.ActiveCfg = Debug|x86
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Debug|x86.Build.0 = Debug|x86
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Release|ARM.ActiveCfg = Release|ARM
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Release|ARM.Build.0 = Release|ARM
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Release|x64.ActiveCfg = Release|x64
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Release|x64.Build.0 = Release|x64
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Release|x86.ActiveCfg = Release|x86
+		{DFD6FFB8-1B35-466A-B824-AA0DE3D1F5AE}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
